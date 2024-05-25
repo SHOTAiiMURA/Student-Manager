@@ -1,4 +1,4 @@
-package StudentManager;
+package src.StudentManager;
 
 //import java.util.List;
 //import java.util.ArrayList;

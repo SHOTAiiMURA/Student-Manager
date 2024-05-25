@@ -1,4 +1,4 @@
-package StudentManager;
+package src.StudentManager;
 
 public interface Person {
     void hello();

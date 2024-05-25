@@ -1,4 +1,4 @@
-package StudentManager;
+package src.StudentManager;
 
 public interface Professor extends Person {
     void startCourse(Course course);

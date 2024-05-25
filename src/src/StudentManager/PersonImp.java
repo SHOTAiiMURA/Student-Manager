@@ -1,4 +1,4 @@
-package StudentManager;
+package src.StudentManager;
 
 public class PersonImp implements Person{
 

@@ -1,4 +1,4 @@
-package StudentManager;
+package src.StudentManager;
 
 public class CourseImp implements Course{
     private String title;

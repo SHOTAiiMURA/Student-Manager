@@ -1,4 +1,4 @@
-package StudentManager;
+package src.StudentManager;
 
 public interface Student extends Person{
     int getStudentID();

@@ -1,4 +1,4 @@
-package shota;
+package src.shota;
 
 public class Basic {
     public static void main(String[] args)

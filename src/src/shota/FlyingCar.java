@@ -1,4 +1,4 @@
-package shota;
+package src.shota;
 
 public class FlyingCar extends Car{
     private int altitude;
