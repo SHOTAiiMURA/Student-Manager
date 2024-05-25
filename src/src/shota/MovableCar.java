@@ -1,4 +1,4 @@
-package shota;
+package src.shota;
 
 public class MovableCar extends Car{
     private int speed;

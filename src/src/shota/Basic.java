@@ -14,14 +14,15 @@ public class Basic {
         String str = "Hello World";
 
         System.out.println(str + 1);
-
+        //Hello World1
         System.out.println(1 + str);
-
+        //1HelloWorld
         System.out.println(1 + 1 + str);
-
+        //2Helloworld
         System.out.println(1 + 1 + "");
-
+        //output("2")
         System.out.println("" + 1 + 1);
+        //output("1" 1)
 
         int sum = 0;
         for(int i = 0; i < 10; i++)
@@ -29,8 +30,10 @@ public class Basic {
             if(i % 2 == 0)
                 continue;
             sum += i;
+
         }
         System.out.println(sum);
+        //0,2,8,18,32
 
 //        sum = 0;
         int counter = 0;
@@ -89,7 +92,7 @@ public class Basic {
             System.out.println();
         }
 
-
+        //switch: do not need to write if else sentence by writting below code.
         int input = 2;
 
         String mode = "Alpha";

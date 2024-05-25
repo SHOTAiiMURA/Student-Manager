@@ -1,4 +1,4 @@
-package shota;
+package src.shota;
 
 public class Car {
     // public, private, protected
