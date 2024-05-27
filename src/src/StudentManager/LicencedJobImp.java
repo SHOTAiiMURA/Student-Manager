@@ -1,16 +1,16 @@
 package src.StudentManager;
 
-public class LicencedJobImp extends LicencedJob {
+public class LicencedJobImp implements LicencedJob {
     //create fields
     private String Liscence;
 
     @Override
     public String getLinscence() {
-        return getLinscence;
+        return Liscence;
     }
 
     @Override
     public String toString() {
-        return ;
+        return "LicenecedJobImp{" + "Liscence='" + Liscence + '\'' + '}';
     }
 }
