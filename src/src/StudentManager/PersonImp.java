@@ -28,4 +28,19 @@ public class PersonImp implements Person{
     public void askPersonalinfo(){
         System.out.println("My personal info are"+ phoneNumber + " " + email + " " + address + " " + gender);
     }
+
+    @Override
+    public void askJob(Job job) {
+
+    }
+
+    @Override
+    public void askHobby() {
+
+    }
+
+    @Override
+    public int getTotalSalary() {
+        return 0;
+    }
 }

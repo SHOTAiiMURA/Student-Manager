@@ -1,6 +1,6 @@
 package src.StudentManager;
 
-public interface Person {
+public interface Person extends Stuff {
     void hello();
     void askGender();
 }
