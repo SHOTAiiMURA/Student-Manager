@@ -31,16 +31,16 @@ public class PersonImp implements Person{
 
     @Override
     public void askJob(Job job) {
-
+        System.out.println("Job: " + Job);
     }
 
     @Override
-    public void askHobby() {
-
+    public void askHobby(String hobby) {
+        System.out.println("Hobby: " + hobby);
     }
 
     @Override
     public int getTotalSalary() {
-        return 0;
+        return getTotalSalary();
     }
 }

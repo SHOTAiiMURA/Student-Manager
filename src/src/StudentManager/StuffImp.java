@@ -26,6 +26,6 @@ public class StuffImp implements Stuff {
 
     @Override
     public int getTotalSalary() {
-        return 0;
+        return ;
     }
 }
